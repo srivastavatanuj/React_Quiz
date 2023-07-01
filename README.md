@@ -34,7 +34,9 @@ To install and run the React quiz app locally, follow these steps:
 5. browser at http://localhost:3000.
 
 
-#Usage
+
+
+# Usage
 
 The quiz app provides a user-friendly interface to facilitate the quiz-taking process. Here's how to use it:
 
@@ -48,12 +50,16 @@ The quiz app provides a user-friendly interface to facilitate the quiz-taking pr
 The app will display your score and provide feedback on each question.
 
 
-#Contribution
+
+
+# Contribution
 
 Contributions to the quiz app project are welcome. If you have any suggestions, bug reports, or feature requests, please submit them via the project's GitHub repository. Together, we can improve and evolve the quiz app for the benefit of the community.
 
 
-#Acknowledgements
+
+
+# Acknowledgements
 
 We would like to express our gratitude to the open-source community and the contributors who have helped shape this project. Thank you for your support and commitment to advancing software development.
 
